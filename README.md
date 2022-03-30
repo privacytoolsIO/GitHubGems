@@ -10,12 +10,12 @@ GitHub Gems are hard to discover since they are so precious and rare, so please 
 - Open Source and free to use.
 - Project is still under active development.
 
-* *Entries are ranked by the amount of GitHub stars.* *
+*Entries are ranked by the amount of GitHub stars.*
 
-Please make sure to share this new project with your best friends and don't forget to submit any rare Gems that you stumble upon.
+Published on: https://www.privacytools.io/guides/category/github-gems
 
 **Submissions:**
 - https://twitter.com/privacytoolsIO
 - https://github.com/privacytoolsIO/GitHubGems/issues/new
 
-Thanks for joining in ❤️
+Please make sure to share this new project with your best friends and don't forget to submit any rare Gems that you stumble upon. Thanks for joining in ❤️
