@@ -12,7 +12,7 @@ GitHub Gems are hard to discover since they are so precious and rare, so please 
 
 *Entries are ranked by the amount of GitHub stars.*
 
-Published on: https://www.privacytools.io/guides/category/github-gems
+Published at: https://www.privacytools.io/guides/category/github-gems
 
 **Submissions:**
 - https://twitter.com/privacytoolsIO
