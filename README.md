@@ -12,6 +12,15 @@ GitHub Gems are hard to discover since they are so precious and rare, so please 
 
 *Entries are ranked by the amount of GitHub stars.*
 
+![Thumbs up](https://www.privacytools.io/guides/bl-content/uploads/pages/5c0a8d67bcafad8f6a35f4f207e77425/thumbsup.jpg)
+
+**GitHub 💎 Gems Goals:**
+- Offering free and easy to use alternatives to users.
+- Connecting developers with a wide user base.
+- Connecting developers who work on similar projects.
+- Finding projects made by great developers who need help in marketing.
+- Offer free promotion on Twitter, GitHub and [Privacy Guides](https://www.privacytools.io/guides/) by [PrivacyTools.io](https://www.privacytools.io/).
+
 Published at: https://www.privacytools.io/guides/category/github-gems
 
 **Submissions:**
