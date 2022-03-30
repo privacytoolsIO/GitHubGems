@@ -16,6 +16,6 @@ Published at: https://www.privacytools.io/guides/category/github-gems
 
 **Submissions:**
 - https://twitter.com/privacytoolsIO
-- https://github.com/privacytoolsIO/GitHubGems/issues/new
+- https://github.com/privacytoolsIO/GitHubGems/discussions/new
 
 Please make sure to share this new project with your best friends and don't forget to submit any rare Gems that you stumble upon. Thanks for joining in ❤️
