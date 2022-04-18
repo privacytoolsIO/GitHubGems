@@ -22,6 +22,7 @@ GitHub Gems are hard to discover since they are so precious and rare, so please 
 Published at: https://www.privacytools.io/guides/category/github-gems
 
 **Submissions:**
+- https://forum.awesomealternatives.org/t/suggestions
 - https://twitter.com/privacytoolsIO
 - https://github.com/privacytoolsIO/GitHubGems/discussions/
 
